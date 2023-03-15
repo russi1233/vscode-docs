@@ -6,7 +6,7 @@
     "files.associations": {
         "**/toc.json": "jsonc"
     },
-    "markdown.validate.enabled": true,
+    "markd
     "markdown.validate.ignoredLinks": [
         "/Download",
         "/insiders"
